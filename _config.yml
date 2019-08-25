@@ -11,6 +11,8 @@ tagline:          'Building better scientific software'
 description:      'A series of modules on best practices for research software development'
 url:              https://research-software-development-lessons.github.io/landing-page/
 
+baseurl: https://research-software-development-lessons.github.io/landing-page/
+
 author:
   name:           'Kyle Niemeyer'
   url:            https://niemeyer-research-group.github.io
